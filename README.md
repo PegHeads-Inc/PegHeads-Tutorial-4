@@ -1,0 +1,4 @@
+# PegHeads-Tutorial-4
+TRANSFER LEARNING: TO CREATE A PRE-TRAINED MODEL
+
+<img src="./PegHeadsTutorial4.jpg" alt="TRANSFER LEARNING: TO CREATE A PRE-TRAINED MODEL" />
