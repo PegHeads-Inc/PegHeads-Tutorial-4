@@ -1,0 +1,16 @@
+1 botpeg's_hand_curved::up
+2 botpeg's_hand_curved::down
+3 botpeg's_body_curved::left
+4 botpeg's_body_curved::right
+5 botpeg's_number_of_antennas::two
+6 botpeg's_number_of_eyes::two
+7 botpeg's_number_of_arms::two
+8 botpeg's_number_of_legs::two
+9 botpeg's_number_of_feet::two
+10 botpeg_funny::yes
+11 botpeg_singing::yes
+12 botpeg_dancing::yes
+13 botpeg_sad::yes
+14 botpeg_happy::yes
+15 botpeg_angry::yes
+16 botpeg_scared::yes
